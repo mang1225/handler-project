@@ -1,4 +1,5 @@
-# Handler和AsyncTask的DEMO
+# 转载自他人
+#Handler和AsyncTask的DEMO
 
 - [Handler和他的小伙伴们（上）](http://www.jianshu.com/p/e04698eaba88)
 - [Handler和他的小伙伴们（中）](http://www.jianshu.com/p/1d03fe0b285c)

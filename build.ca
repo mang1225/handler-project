@@ -22,7 +22,7 @@ ext {
     ]
 
     dependencies = [
-            "MvpArms"              : "me.jessyan:arms:2.2.3",
+            "MvpArms"                 : "me.jessyan:arms:2.2.3",
 
             //support
             "appcompat-v7"            : "com.android.support:appcompat-v7:${version["androidSupportSdkVersion"]}",
